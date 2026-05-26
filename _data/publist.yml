@@ -1,22 +1,32 @@
-# - title: "The Latent Color Subspace: Emergent Order in High-Dimensional Chaos"
-#   author: "Mateusz Pach, Jessica Bader, Quentin Bouniot, Serge Belongie, Zeynep Akata"
-#   link:
-#     display: ABS
-#     url: https://arxiv.org/abs/
-#   ref: Pach2026
-#   venue: 'International Conference on Machine Learning (ICML), '
-#   year: '2026'
-#   pub_type: conference
+- title: "OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory"
+  authors: "Zhaochong An, Menglin Jia, Haonan Qiu, Zijian Zhou, Xiaoke Huang, Zhiheng Liu, Weiming Ren, Kumara Kahatapitiya, Ding Liu, Sen He, Chenyang Zhang, Tao Xiang, Fanny Yang, **Serge Belongie**, Tian Xie"
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: 2026
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2512.07802
+  ref: An2026b
+  pubtype: conference
 
-# - title: "RAIGen: Rare Attribute Identification in Text-to-Image Generative Models"
-#   author: "Silpa Vadakkeeveetil Sreelatha, Dan Wang, Serge Belongie, Muhammad Awais, Anjan Dutta"
-#   link:
-#     display: ABS
-#     url: https://arxiv.org/abs/
-#   ref: Silpa2026
-#   venue: 'International Conference on Machine Learning (ICML), '
-#   year: '2026'
-#   pub_type: conference
+- title: "The Latent Color Subspace: Emergent Order in High-Dimensional Chaos"
+  author: "Mateusz Pach, Jessica Bader, Quentin Bouniot, Serge Belongie, Zeynep Akata"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2603.12261
+  ref: Pach2026
+  venue: 'International Conference on Machine Learning (ICML), '
+  year: '2026'
+  pub_type: conference
+
+- title: "RAIGen: Rare Attribute Identification in Text-to-Image Generative Models"
+  author: "Silpa Vadakkeeveetil Sreelatha, Dan Wang, Serge Belongie, Muhammad Awais, Anjan Dutta"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2602.06806
+  ref: Silpa2026
+  venue: 'International Conference on Machine Learning (ICML), '
+  year: '2026'
+  pub_type: conference
 
 # - title: "MODUS: Decoder-only Any-to-Any Modeling of Diverse Modalities"
 #   author: "Mingqiao Ye, Zhaochong An, Zhitong Gao, Xian Liu, Oğuzhan Fatih Kar, Jesse Allardice, Roman Bachmann, David Mizrahi, François Fleuret, Chuan Li, Amir Zadeh, Serge Belongie, Afshin Dehghan, Amir Zamir"
@@ -33,7 +43,7 @@
   link:
     display: ABS
     url: https://arxiv.org/abs/2603.17840
-  ref: An2026
+  ref: An2026a
   venue: 'Machine Intelligence Research, '
   year: '2026'
   pub_type: journal
