@@ -1,3 +1,13 @@
+- title: "MODUS: Decoder-only Any-to-Any Modeling of Diverse Modalities"
+  author: "Mingqiao Ye, Zhaochong An, Zhitong Gao, Xian Liu, Oğuzhan Fatih Kar, Jesse Allardice, Roman Bachmann, David Mizrahi, François Fleuret, Chuan Li, Amir Zadeh, Serge Belongie, Afshin Dehghan, Amir Zamir"
+  venue: 'International Conference on Machine Learning (ICML), '
+  year: '2026'
+  link:
+    display: ABS
+    url: https://icml.cc/virtual/2026/poster/61164
+  ref: Ye2026
+  pub_type: conference
+
 - title: "Better Language Models Exhibit Higher Visual Alignment"
   author: "Jona Ruthardt, Gertjan J. Burghouts, Serge Belongie, Yuki M. Asano"
   venue: "Transactions on Machine Learning Research (TMLR), "
